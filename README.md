@@ -5,3 +5,7 @@ Welcome to a RahatCodes Tutorial Series! This is going to be a series of tutoria
 The cool part of this series is that you can choose to follow along with me in the video below or skip over it and just read the instructions in the blog post, you can also do both!
 
 What we're going to be building in this series is an application for teachers to be able to keep track of the grades for their students. Sounds kind of simple but over time we'll add a ton of cool features to it.
+
+Check out the blog posts below which contain instructions for each part we have coded so far. There will be a correspending commit for the final version of each part. 
+
+Part 1: 
