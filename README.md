@@ -9,3 +9,4 @@ What we're going to be building in this series is an application for teachers to
 Check out the blog posts below which contain instructions for each part we have coded so far. There will be a correspending commit for the final version of each part. 
 
 Part 1: 
+https://dev.to/rahatch/student-gradebook-application-with-mern-graphql-38e2
